@@ -24,6 +24,9 @@ STEP-1: Read the plain text and key from the user. STEP-2: Split the plain text 
 STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
+## NAME: LIVYA DHARSHINI G
+## REGISTER NUMBER: 2305001013
+
 ## PROGRAM 
 ```
 #include <stdio.h>
